@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-// Função que recebe um struct de um Círculo e calcula sua área.
+//Função que recebe um struct de um Círculo e calcula sua área.
 
 type Circulo struct {
 	raio float64
