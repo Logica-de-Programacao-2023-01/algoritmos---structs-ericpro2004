@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//Função que recebe um struct de um triângulo e returna a área do mesmo.
+//Função que recebe um struct de um triângulo e retorna a área do mesmo.
 
 type Triangulo struct {
 	Base   float64
